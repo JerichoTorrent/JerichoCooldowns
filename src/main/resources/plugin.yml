@@ -1,0 +1,6 @@
+name: JerichoCooldowns
+main: com.jericho.cooldowns.JerichoCooldowns
+version: 1.0.0
+description: Adds configurable cooldowns for ender pearls and golden apples.
+author: Pip
+api-version: 1.21

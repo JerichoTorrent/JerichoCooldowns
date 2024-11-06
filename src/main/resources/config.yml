@@ -1,0 +1,6 @@
+# Configuration file for JerichoCooldowns plugin
+
+cooldowns:
+  pearl: 5  # Cooldown in seconds for throwing ender pearls
+  apple: 10 # Cooldown in seconds for eating golden apples
+  enchantedApple: 10 #Cooldown in seconds for eating golden apples... this does not actually do anything *yet*

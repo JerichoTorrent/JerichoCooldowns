@@ -1,9 +1,16 @@
 target/
+<<<<<<< HEAD
+=======
+*.class
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+>>>>>>> e775864 (Initial code)
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
 release.properties
+<<<<<<< HEAD
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
@@ -15,3 +22,16 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+=======
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
+*.jar
+*.war
+*.ear
+*.zip
+*.tmp
+*.bak
+*.swp
+>>>>>>> e775864 (Initial code)
